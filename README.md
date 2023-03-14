@@ -1,7 +1,1 @@
-# Rifle-Range
-
-game unity 3d
-
-Игра "Стрелковый тир"
-
-![скриншот](https://github.com/sozercaniekosmosa/Rifle-Range/blob/master/Assets/enviroment/Materials/snapshot.png)
+Welcome, I'm 4 Year Student of Faculty of Computing Specialising in Interactive Media at SLIIT. This 2D Shooting Game Delovepd for Games Development module Assignment IT20009786 Wakeela.M.D.V.
